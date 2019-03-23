@@ -1,3 +1,3 @@
 # nbaplayoffs19
 
-fun side project to prove that the warriors r gonna win!!!!!
+fun side project to predict the nba championship odds
